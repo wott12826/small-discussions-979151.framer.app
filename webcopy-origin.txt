@@ -186,7 +186,7 @@ Uri: https://framerusercontent.com/images/pXdmw1WV4MMgzciCDYanVZ4zFh4.png
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\pXdmw1WV4MMgzciCDYanVZ4zFh4.png
 Content Type: image/png
 
-Uri: images/jinx_logo.png
+Uri: images/jinx_logo_new.png
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\Rzd12gPB93jr9HktspqjroAhY.png
 Content Type: image/png
 
