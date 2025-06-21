@@ -142,19 +142,19 @@ Uri: https://framerusercontent.com/images/dXtnliuXL1CbF6SsHF1CSthKrCw.jpg
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\dXtnliuXL1CbF6SsHF1CSthKrCw.jpg
 Content Type: image/jpeg
 
-Uri: https://framerusercontent.com/images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
+Uri: images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=1024
+Uri: images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=1024
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=2048
+Uri: images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=2048
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=512
+Uri: images/ENz6hf4WVKoDnxMKeeRFTl9eoSE.png?scale-down-to=512
 File Name: C:\Downloaded Web Sites\small-discussions-979151.framer.app\images\ENz6hf4WVKoDnxMKeeRFTl9eoSE.png
 Content Type: image/png
 
