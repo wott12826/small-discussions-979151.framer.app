@@ -1,12 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.querySelector('form');
-    // The form container is the parent of the form, which has the class 'framer-1y0rjsb'
-    const formContainer = form ? form.closest('.framer-1y0rjsb') : null;
+    const formContainer = document.querySelector('.framer-1y0rjsb[data-framer-name="Content"]');
 
     if (form && formContainer) {
+        // Предотвращаем стандартную отправку формы
         form.addEventListener('submit', function(event) {
             event.preventDefault();
-
+            event.stopPropagation();
+            
+            console.log('Form submitted, showing thank you message');
+            
             // Hide the form container
             formContainer.style.display = 'none';
 
@@ -61,6 +64,19 @@ document.addEventListener('DOMContentLoaded', function() {
             if (formContainer.parentNode) {
                 formContainer.parentNode.insertBefore(thankYouMessage, formContainer.nextSibling);
             }
+            
+            // Prevent any further form submission
+            return false;
         });
+        
+        // Также предотвращаем отправку при нажатии Enter
+        form.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                form.dispatchEvent(new Event('submit'));
+            }
+        });
+    } else {
+        console.log('Form or form container not found');
     }
 }); 
